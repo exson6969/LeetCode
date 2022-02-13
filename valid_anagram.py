@@ -14,5 +14,5 @@ class Solution():
         return True
 
 p1 = Solution()
-print(p1.isAnagram(s ="rat",t ="cat"))
+print(p1.isAnagram(s ="rat",t ="cat")) #False
 
